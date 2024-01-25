@@ -1,25 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Musharaf</h1>
+<h3 align="center">Electrical Engineer specialized in Computer Vision and Machine Learning. </h3>
 
-<!--
-**mtamusharaf/mtamusharaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<h1 align="center">Hi 👋, I'm Nico</h1>
-<h3 align="center">Machine Learning and Computer Vision Engineer. I Help Companies and 26k+ People Build ML Pipelines and Computer Vision Applications.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niconielsen32&label=Profile%20views&color=0e75b6&style=flat-square" alt="niconielsen32" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niconielsen32&label=Profile%20views&color=0e75b6&style=flat-square" alt="mtamusharaf" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nielsencv_ai" target="blank"><img src="https://img.shields.io/twitter/follow/nielsencv_ai?logo=twitter&style=for-the-badge" alt="nielsencv_ai" /></a> </p>
 
