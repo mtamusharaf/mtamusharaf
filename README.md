@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtamusharaf&label=Profile%20views&color=0e75b6&style=flat-square" alt="mtamusharaf" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nielsencv_ai" target="blank"><img src="https://img.shields.io/twitter/follow/nielsencv_ai?logo=twitter&style=for-the-badge" alt="nielsencv_ai" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/ahamed-musharaf-7167391a3/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BPugQ6d5USxitdOEkURFbMQ%3D%3D" target="blank"><img src="https://img.shields.io/linkedin/follow/ahamed-musharaf?logo=linkedin&style=for-the-badge" alt="ahamed-musharaf" /></a> </p>
 
 - 📷 I post videos and tutorials on [https://www.youtube.com/channel/UCpABUkWm8xMt5XmGcFb3EFg](https://www.youtube.com/channel/UCpABUkWm8xMt5XmGcFb3EFg)
 
