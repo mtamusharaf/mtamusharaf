@@ -3,18 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtamusharaf&label=Profile%20views&color=0e75b6&style=flat-square" alt="mtamusharaf" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/ahamed-musharaf-7167391a3/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BPugQ6d5USxitdOEkURFbMQ%3D%3D" target="blank"><img src="https://img.shields.io/linkedin/follow/ahamed-musharaf?logo=linkedin&style=for-the-badge" alt="ahamed-musharaf" /></a> </p>
+- 💬 Talking about **Computer Vision, Deep Learning, AI**
 
-- 📷 I post videos and tutorials on [https://www.youtube.com/channel/UCpABUkWm8xMt5XmGcFb3EFg](https://www.youtube.com/channel/UCpABUkWm8xMt5XmGcFb3EFg)
-
-- 💬 Talking about **Deep Learning, AI, Computer Vision, Robotics**
-
-- 📫 Business inquiries **thecodinglibraryyt@gmail.com**
+- 📫 Business inquiries **ahamedmusharaf15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nielsencv_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nielsencv_ai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nicolaiai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolaiai" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahamed-musharaf-7167391a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolaiai" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/nicolainielsenai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nicolainielsenai" height="30" width="40" /></a>
 </p>
 
