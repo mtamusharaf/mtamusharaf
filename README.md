@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Musharaf</h1>
-<h3 align="center">Electrical Engineer specialized in Computer Vision and Machine Learning. </h3>
+<h3 align="center">AI/Software Engineer specialized in Agents, Computer Vision and Machine Learning. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtamusharaf&label=Profile%20views&color=0e75b6&style=flat-square" alt="mtamusharaf" /> </p>
 
-- 💬 Talking about **Computer Vision, Deep Learning, AI**
+- 💬 Talking about **Artificial Intelligence, Computer Vision, Machine Learning, and Deep Learning**
 
 - 📫 Business inquiries **ahamedmusharaf15@gmail.com**
 
